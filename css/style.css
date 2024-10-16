@@ -99,6 +99,9 @@ body{
     align-items: center;
     margin-left: 34px;
 }
+option{
+    color: black;
+}
 .rating-icon{
     margin-right: 14px;
 }
