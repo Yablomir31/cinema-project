@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: white;
 }
 
 .container {
@@ -428,7 +429,6 @@ input {
 }
 
 .brand-block {
-    background-color: #fbfbfb;
     height: 194px;
     display: flex;
     justify-content: space-around;
